@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickKartMVCapp", "QuickKartMVCapp\QuickKartMVCapp.csproj", "{21474CB2-4D7B-4B93-B1BC-B7B3306A0A08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuickKartDataAccessLayer", "QuickKartDataAccessLayer\QuickKartDataAccessLayer.csproj", "{46D7A2F2-5482-4ABE-B64A-17592952CBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21474CB2-4D7B-4B93-B1BC-B7B3306A0A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21474CB2-4D7B-4B93-B1BC-B7B3306A0A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21474CB2-4D7B-4B93-B1BC-B7B3306A0A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21474CB2-4D7B-4B93-B1BC-B7B3306A0A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D7A2F2-5482-4ABE-B64A-17592952CBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D7A2F2-5482-4ABE-B64A-17592952CBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D7A2F2-5482-4ABE-B64A-17592952CBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D7A2F2-5482-4ABE-B64A-17592952CBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19637689-2D17-4689-8368-6F94FCB578EF}
+	EndGlobalSection
+EndGlobal
